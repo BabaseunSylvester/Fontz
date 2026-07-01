@@ -14,10 +14,10 @@ A sleek Android app that transforms your text into a variety of Unicode font sty
 ---
 
 ## 📸 Screenshots
+<img width="1080" height="2265" alt="Screenshot_20260701_180200_Fontz" src="https://github.com/user-attachments/assets/3c48f839-e563-4590-bc72-fe0833bfc98f" />
 <img width="1080" height="2265" alt="Screenshot_20260701_180128_Fontz" src="https://github.com/user-attachments/assets/b81b1db9-aeb1-4dbf-a9e3-ab0da51f86af" />
 <img width="1080" height="2265" alt="Screenshot_20260701_180141_Fontz" src="https://github.com/user-attachments/assets/c078d877-dde1-480f-a505-050f9061b200" />
 <img width="1080" height="2265" alt="Screenshot_20260701_180150_Fontz" src="https://github.com/user-attachments/assets/142dec57-f469-49f0-b0d5-011aae7c083b" />
-<img width="1080" height="2265" alt="Screenshot_20260701_180200_Fontz" src="https://github.com/user-attachments/assets/3c48f839-e563-4590-bc72-fe0833bfc98f" />
 
 
 
